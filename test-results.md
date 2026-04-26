@@ -16,9 +16,12 @@
 ## Problematicni slucajevi
 
 10/0 - dijeljenje nulom nije definisano
+
 abc - neispravan unos nije obradjen
+
 5++5 - neispravan izraz nije obradjen
 
 ## Unit test
 ulaz: 2+2
+
 ocekivani rezultat: 4
