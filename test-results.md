@@ -10,6 +10,7 @@
 ## Provjera prioriteta operacija
 
 2+3 * 4 = 14
+
 10+5 * 4=33
 
 ## Problematicni slucajevi
