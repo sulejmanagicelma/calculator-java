@@ -4,13 +4,13 @@
 
 2+2=4
 5-3=2
-4*3=12
+4 * 3=12
 10/2=5 
 
-## pROVJERA PRIORITETA OPERACIJA
+## Provjera prioriteta operacija
 
-2+3*4 = 14
-10+5*4=33
+2+3 * 4 = 14
+10+5 * 4=33
 
 ## Problematicni slucajevi
 
